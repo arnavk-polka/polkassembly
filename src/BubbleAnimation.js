@@ -364,7 +364,7 @@ const BubbleAnimation = () => {
       <header className="hide-text">
         <div className="header-inner">
           <a href="#" className="navbar-brand">
-            POLKASSEMBLY
+            PITCHCRAFT
           </a>
                      
            
@@ -375,7 +375,7 @@ const BubbleAnimation = () => {
         </div>
       </header>
 
-      <h1 className="main-txt">POLKASSEMBLY</h1>
+      <h1 className="main-txt">PITCHCRAFT</h1>
 
       <section className="banner hide-text">
         <div className="banner-inner">
@@ -396,31 +396,7 @@ const BubbleAnimation = () => {
             </div>
             <div className="right-desc">
               
-              <div className="desc-inner">
-                <span className='size'>Social Links</span>
-                <ul>
-                  <li>
-                    <a href="#">
-                      <i className="fa-brands fa-x-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i className="fa-brands fa-facebook-f"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i className="fa-brands fa-instagram"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i className="fa-brands fa-youtube"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
+             
             </div>
           </div>
         </div>
